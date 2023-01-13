@@ -1,0 +1,16 @@
+Sameer :
+name2, 1
+name3, 0
+name4, 1
+Samridh :
+name1, 0
+name3, 0
+name4, 0
+Swapnil:
+name2, 1
+name1, 0
+name4, 1
+Shashwat:
+name1, 0
+name3, 1
+name2, 0
